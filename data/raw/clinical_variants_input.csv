@@ -1,0 +1,181 @@
+variant_id,chrom,pos,ref,alt,gene,hgvs_c,hgvs_p,consequence,lof_intolerant_gene,syndrome,domain_name,in_hotspot_domain,gnomad_af,revel_score,cadd_phred,spliceai_ds,phylop_score,clinvar_assertion,clinvar_stars,genotype,read_depth,vaf
+CLINVAR_001,chr17,43091983,G,A,BRCA1,c.5266dupC,p.Gln1756ProfsTer74,frameshift_variant,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,1.8e-05,0.94,36.4,0.04,7.8,Pathogenic,4,0/1,142,0.49
+CLINVAR_002,chr13,32340301,GT,G,BRCA2,c.5946delT,p.Ser1982ArgfsTer22,frameshift_variant,True,Hereditary Breast & Ovarian Cancer,RAD51_Binding_BBRC,True,2.4e-05,0.91,35.1,0.02,6.9,Pathogenic,4,0/1,128,0.48
+CLINVAR_003,chr17,7674220,C,T,TP53,c.743G>A,p.Arg248Gln,missense_variant,True,Li-Fraumeni Syndrome,p53_DNA_Binding_Domain,True,0.0,0.97,34.8,0.01,9.1,Pathogenic,3,0/1,165,0.51
+CLINVAR_004,chr3,37012077,G,A,MLH1,c.350C>T,p.Thr117Met,splice_donor_variant,True,Lynch Syndrome,ATPase_Mismatch_Repair,True,0.0,0.89,33.5,0.92,8.4,Pathogenic,3,0/1,118,0.47
+CLINVAR_005,chr11,47359280,G,A,MYBPC3,c.1504C>T,p.Arg502Trp,stop_gained,True,Hypertrophic Cardiomyopathy,Myosin_Binding_C0_C10,True,1.2e-05,0.93,38.2,0.05,7.5,Pathogenic,3,0/1,134,0.5
+CLINVAR_006,chr19,11105588,G,A,LDLR,c.682G>T,p.Glu228Ter,stop_gained,True,Familial Hypercholesterolemia,EGF_Precursor_LDLR_ClassB,True,0.0,0.95,41.0,0.03,8.8,Pathogenic,4,0/1,152,0.52
+CLINVAR_007,chr19,11097158,A,T,LDLR,c.2258A>T,p.Val159Ala,missense_variant,True,Familial Hypercholesterolemia,EGF_Precursor_LDLR_ClassB,True,0.0,0.267,21.6,0.18,3.04,Uncertain_significance,0,0/1,112,0.47
+CLINVAR_008,chr14,23414979,C,T,MYH7,c.3579C>T,p.Val580Ala,missense_variant,False,Hypertrophic Cardiomyopathy,None,False,0.01515,0.074,5.2,0.05,0.58,Likely_benign,1,0/1,174,0.49
+CLINVAR_009,chr3,37004039,C,G,MLH1,c.2139C>G,p.Val540Ala,intron_variant,True,Lynch Syndrome,None,False,0.0,0.61,20.2,0.26,3.64,Uncertain_significance,1,0/1,95,0.51
+CLINVAR_010,chr19,11130397,G,T,LDLR,c.497G>T,p.Val98Ala,missense_variant,True,Familial Hypercholesterolemia,EGF_Precursor_LDLR_ClassB,True,0.0,0.325,17.0,0.04,1.5,Uncertain_significance,1,0/1,143,0.52
+CLINVAR_011,chr2,47414226,G,C,MSH2,c.3326G>C,p.Val427Ala,inframe_deletion,True,Lynch Syndrome,None,False,0.00028,0.253,20.5,0.18,1.55,Uncertain_significance,1,0/1,203,0.52
+CLINVAR_012,chr11,47346298,G,A,MYBPC3,c.1898G>A,p.Val899Ala,missense_variant,True,Hypertrophic Cardiomyopathy,Myosin_Binding_C0_C10,True,0.000172,0.25,23.3,0.19,3.59,Uncertain_significance,1,0/1,135,0.55
+CLINVAR_013,chr19,11119933,C,G,LDLR,c.533C>G,p.Val434Ala,inframe_deletion,True,Familial Hypercholesterolemia,None,False,0.000183,0.488,17.7,0.32,1.09,Uncertain_significance,0,0/1,195,0.45
+CLINVAR_014,chr19,11100346,T,TG,LDLR,c.1946T>TG,p.Val647Ala,frameshift_variant,True,Familial Hypercholesterolemia,None,False,0.0,0.955,40.5,0.01,6.43,Likely_pathogenic,3,0/1,105,0.49
+CLINVAR_015,chr3,38595726,G,T,SCN5A,c.1326G>T,p.Val127Ala,missense_variant,False,Brugada / Long QT Syndrome 3,None,False,0.3881,0.106,3.6,0.03,-0.76,Benign,2,1/1,105,0.97
+CLINVAR_016,chr11,47331943,G,C,MYBPC3,c.1543G>C,p.Val44Ala,missense_variant,True,Hypertrophic Cardiomyopathy,Myosin_Binding_C0_C10,True,0.0,0.949,34.1,0.05,7.58,Likely_pathogenic,2,0/1,95,0.45
+CLINVAR_017,chr11,108227519,C,A,ATM,c.619C>A,p.Val720Ala,missense_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.00645,0.083,9.0,0.06,1.16,Likely_benign,1,0/1,176,0.48
+CLINVAR_018,chr19,11132452,G,C,LDLR,c.2552G>C,p.Val353Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.0992,0.035,4.0,0.02,-2.28,Benign,2,0/1,85,0.45
+CLINVAR_019,chr19,11093720,C,A,LDLR,c.2320C>A,p.Val321Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.0809,0.036,7.5,0.01,-2.67,Benign,4,0/1,158,0.5
+CLINVAR_020,chr11,108249661,C,A,ATM,c.1761C>A,p.Val362Ala,intron_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.0,0.409,22.8,0.04,3.31,Uncertain_significance,0,0/1,136,0.53
+CLINVAR_021,chr13,32332269,C,A,BRCA2,c.2869C>A,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.01523,0.053,4.9,0.06,-0.49,Likely_benign,1,0/1,91,0.52
+CLINVAR_022,chr11,47332873,A,C,MYBPC3,c.2473A>C,p.Val74Ala,intron_variant,True,Hypertrophic Cardiomyopathy,None,False,0.000349,0.635,15.7,0.02,2.18,Uncertain_significance,1,0/1,121,0.49
+CLINVAR_023,chr3,38584984,T,A,SCN5A,c.1084T>A,p.Val185Ala,missense_variant,False,Brugada / Long QT Syndrome 3,None,False,0.00024,0.469,21.6,0.04,3.01,Uncertain_significance,0,0/1,92,0.56
+CLINVAR_024,chr13,32328152,A,T,BRCA2,c.2252A>T,p.Val153Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,RAD51_Binding_BBRC,True,0.0,0.869,35.0,0.09,6.96,Likely_pathogenic,2,0/1,159,0.51
+CLINVAR_025,chr2,47420656,C,T,MSH2,c.2756C>T,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.1519,0.024,7.3,0.02,0.52,Benign,2,1/1,164,1.0
+CLINVAR_026,chr13,32320775,C,T,BRCA2,c.1875C>T,p.Val876Ala,inframe_deletion,True,Hereditary Breast & Ovarian Cancer,None,False,0.000354,0.39,15.6,0.27,3.53,Uncertain_significance,0,0/1,170,0.54
+CLINVAR_027,chr3,37037325,A,C,MLH1,c.425A>C,p.Val526Ala,missense_variant,True,Lynch Syndrome,None,False,7.9e-05,0.35,16.1,0.12,3.46,Uncertain_significance,1,0/1,117,0.55
+CLINVAR_028,chr17,43050843,T,C,BRCA1,c.943T>C,p.Val244Ala,stop_gained,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,0.0,0.895,33.9,0.09,5.52,Likely_pathogenic,3,0/1,198,0.52
+CLINVAR_029,chr17,7704657,A,G,TP53,c.1257A>G,p.(=),synonymous_variant,True,Li-Fraumeni Syndrome,None,False,0.0155,0.025,6.2,0.06,1.31,Likely_benign,1,0/1,200,0.48
+CLINVAR_030,chr19,11106215,A,G,LDLR,c.815A>G,p.Val216Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.4105,0.092,10.2,0.01,-2.55,Benign,2,0/1,88,0.46
+CLINVAR_031,chr2,47430549,C,G,MSH2,c.2149C>G,p.Val550Ala,missense_variant,True,Lynch Syndrome,None,False,0.0,0.238,18.8,0.08,4.45,Uncertain_significance,0,0/1,113,0.44
+CLINVAR_032,chr16,23629773,G,C,PALB2,c.1373G>C,p.Val274Ala,intron_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.1832,0.066,7.6,0.03,-1.88,Benign,2,1/1,209,0.96
+CLINVAR_033,chr14,23430637,A,C,MYH7,c.1737A>C,p.Val38Ala,intron_variant,False,Hypertrophic Cardiomyopathy,None,False,0.02572,0.058,9.0,0.03,-0.69,Likely_benign,1,0/1,117,0.45
+CLINVAR_034,chr5,112708108,C,G,APC,c.1208C>G,p.Val209Ala,missense_variant,True,Familial Adenomatous Polyposis,None,False,0.03229,0.095,9.6,0.01,1.06,Likely_benign,2,0/1,170,0.49
+CLINVAR_035,chr5,112753690,G,T,APC,c.1290G>T,p.Val791Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.000164,0.564,15.8,0.19,2.25,Uncertain_significance,1,0/1,121,0.47
+CLINVAR_036,chr14,23452998,G,C,MYH7,c.3098G>C,p.Val799Ala,missense_variant,False,Hypertrophic Cardiomyopathy,None,False,0.00811,0.077,12.4,0.05,-1.42,Likely_benign,1,0/1,121,0.5
+CLINVAR_037,chr19,11130445,G,A,LDLR,c.545G>A,p.(=),synonymous_variant,True,Familial Hypercholesterolemia,None,False,0.3006,0.035,2.6,0.0,-2.22,Benign,3,0/1,183,0.45
+CLINVAR_038,chr5,112749270,C,T,APC,c.370C>T,p.Val871Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.2009,0.026,7.7,0.04,0.24,Benign,2,0/1,113,0.46
+CLINVAR_039,chr3,38582506,T,A,SCN5A,c.2106T>A,p.(=),synonymous_variant,False,Brugada / Long QT Syndrome 3,None,False,0.01641,0.116,9.7,0.06,0.02,Likely_benign,2,0/1,163,0.54
+CLINVAR_040,chr11,47359872,T,A,MYBPC3,c.1472T>A,p.Val73Ala,intron_variant,True,Hypertrophic Cardiomyopathy,None,False,0.2193,0.093,9.3,0.01,-0.09,Benign,3,0/1,120,0.49
+CLINVAR_041,chr3,38567287,C,G,SCN5A,c.887C>G,p.Val488Ala,missense_variant,False,Brugada / Long QT Syndrome 3,None,False,0.0,0.326,21.1,0.23,0.78,Uncertain_significance,1,0/1,138,0.45
+CLINVAR_042,chr5,112733522,A,T,APC,c.2122A>T,p.(=),synonymous_variant,True,Familial Adenomatous Polyposis,None,False,0.03304,0.056,6.5,0.05,0.84,Likely_benign,1,0/1,147,0.47
+CLINVAR_043,chr5,112739825,A,G,APC,c.1425A>G,p.Val426Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.000339,0.643,24.0,0.18,4.4,Uncertain_significance,0,0/1,95,0.52
+CLINVAR_044,chr17,7699159,C,A,TP53,c.2759C>A,p.Val560Ala,inframe_deletion,True,Li-Fraumeni Syndrome,None,False,0.0,0.37,21.8,0.13,3.73,Uncertain_significance,1,0/1,191,0.45
+CLINVAR_045,chr17,43080146,A,G,BRCA1,c.2246A>G,p.Val747Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,0.000268,0.567,23.7,0.08,0.59,Uncertain_significance,0,0/1,145,0.52
+CLINVAR_046,chr14,23427524,T,G,MYH7,c.2124T>G,p.Val525Ala,inframe_deletion,False,Hypertrophic Cardiomyopathy,None,False,0.0,0.499,21.6,0.05,4.02,Uncertain_significance,0,0/1,159,0.44
+CLINVAR_047,chr3,37031585,T,C,MLH1,c.1685T>C,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.0827,0.086,7.1,0.0,-0.11,Benign,4,0/1,161,0.54
+CLINVAR_048,chr14,23415931,G,T,MYH7,c.1031G>T,p.Val632Ala,intron_variant,False,Hypertrophic Cardiomyopathy,None,False,0.00316,0.098,2.1,0.03,-0.33,Likely_benign,2,0/1,207,0.48
+CLINVAR_049,chr11,108269338,C,G,ATM,c.438C>G,p.Val239Ala,inframe_deletion,True,Ataxia-Telangiectasia / HBOC,None,False,0.000369,0.576,18.7,0.27,3.05,Uncertain_significance,0,0/1,191,0.55
+CLINVAR_050,chr3,37023393,C,G,MLH1,c.493C>G,p.Val94Ala,missense_variant,True,Lynch Syndrome,None,False,0.01376,0.023,11.8,0.01,-1.28,Likely_benign,2,0/1,128,0.47
+CLINVAR_051,chr14,23459192,G,T,MYH7,c.2292G>T,p.Val693Ala,missense_variant,False,Hypertrophic Cardiomyopathy,Myosin_Head_Motor_Domain,True,0.0,0.961,27.7,0.11,6.21,Likely_pathogenic,3,0/1,145,0.52
+CLINVAR_052,chr11,108252355,A,C,ATM,c.955A>C,p.Val356Ala,intron_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.000136,0.488,18.8,0.18,2.33,Uncertain_significance,1,0/1,130,0.52
+CLINVAR_053,chr3,37013944,G,A,MLH1,c.1544G>A,p.Val545Ala,missense_variant,True,Lynch Syndrome,None,False,0.0,0.562,23.7,0.23,1.32,Uncertain_significance,1,0/1,177,0.51
+CLINVAR_054,chr11,47371017,G,A,MYBPC3,c.2117G>A,p.Val418Ala,intron_variant,True,Hypertrophic Cardiomyopathy,None,False,0.138,0.03,0.6,0.02,-2.1,Benign,2,0/1,174,0.55
+CLINVAR_055,chr19,11122032,A,C,LDLR,c.2632A>C,p.Val733Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.01717,0.061,13.1,0.02,0.93,Likely_benign,1,0/1,190,0.45
+CLINVAR_056,chr11,108227839,A,C,ATM,c.939A>C,p.Val140Ala,inframe_deletion,True,Ataxia-Telangiectasia / HBOC,None,False,0.0,0.334,19.7,0.14,3.06,Uncertain_significance,1,0/1,142,0.55
+CLINVAR_057,chr3,37032419,T,C,MLH1,c.2519T>C,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.02165,0.109,12.9,0.01,-1.28,Likely_benign,1,0/1,105,0.47
+CLINVAR_058,chr11,47336825,C,A,MYBPC3,c.2925C>A,p.Val426Ala,missense_variant,True,Hypertrophic Cardiomyopathy,None,False,0.02111,0.055,4.7,0.04,0.39,Likely_benign,2,0/1,94,0.52
+CLINVAR_059,chr3,37034813,C,G,MLH1,c.1413C>G,p.Val714Ala,missense_variant,True,Lynch Syndrome,None,False,0.000365,0.6,14.7,0.07,1.82,Uncertain_significance,1,0/1,141,0.45
+CLINVAR_060,chr3,38568490,T,C,SCN5A,c.2090T>C,p.Val791Ala,intron_variant,False,Brugada / Long QT Syndrome 3,None,False,0.01577,0.092,12.2,0.04,0.05,Likely_benign,1,0/1,96,0.47
+CLINVAR_061,chr19,11127558,A,T,LDLR,c.1158A>T,p.Val859Ala,missense_variant,True,Familial Hypercholesterolemia,None,False,0.0697,0.093,5.4,0.03,0.46,Benign,2,0/1,159,0.49
+CLINVAR_062,chr11,108228963,T,C,ATM,c.2063T>C,p.Val364Ala,intron_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.02372,0.123,5.8,0.04,-1.02,Likely_benign,2,0/1,189,0.53
+CLINVAR_063,chr17,43074602,A,G,BRCA1,c.202A>G,p.Val603Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.000174,0.457,24.1,0.22,2.83,Uncertain_significance,0,0/1,151,0.48
+CLINVAR_064,chr11,108263970,T,A,ATM,c.2070T>A,p.Val271Ala,missense_variant,True,Ataxia-Telangiectasia / HBOC,PI3K_PI4K_Kinase,True,0.000186,0.541,15.2,0.31,3.12,Uncertain_significance,0,0/1,124,0.51
+CLINVAR_065,chr11,47358644,A,C,MYBPC3,c.244A>C,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.2234,0.023,9.2,0.02,-0.33,Benign,4,0/1,138,0.54
+CLINVAR_066,chr11,108238957,T,G,ATM,c.1557T>G,p.Val458Ala,missense_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.000213,0.624,22.8,0.1,3.9,Uncertain_significance,1,0/1,190,0.44
+CLINVAR_067,chr3,38568128,T,A,SCN5A,c.1728T>A,p.Val429Ala,intron_variant,False,Brugada / Long QT Syndrome 3,None,False,0.0126,0.086,8.2,0.03,-0.91,Likely_benign,1,0/1,210,0.52
+CLINVAR_068,chr14,23438338,C,G,MYH7,c.2438C>G,p.Val539Ala,missense_variant,False,Hypertrophic Cardiomyopathy,Myosin_Head_Motor_Domain,True,4e-05,0.927,33.0,0.12,7.94,Likely_pathogenic,3,0/1,104,0.5
+CLINVAR_069,chr17,43053068,G,A,BRCA1,c.3168G>A,p.Val669Ala,intron_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.0914,0.11,0.7,0.01,0.28,Benign,2,0/1,94,0.5
+CLINVAR_070,chr3,37016037,T,G,MLH1,c.137T>G,p.Val838Ala,inframe_deletion,True,Lynch Syndrome,None,False,0.000347,0.395,17.2,0.24,3.77,Uncertain_significance,0,0/1,164,0.45
+CLINVAR_071,chr19,11134714,G,A,LDLR,c.1314G>A,p.Val815Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.4121,0.094,7.9,0.0,-2.53,Benign,3,0/1,90,0.48
+CLINVAR_072,chr17,43064021,G,C,BRCA1,c.121G>C,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.01897,0.088,11.1,0.01,-1.73,Likely_benign,2,0/1,164,0.52
+CLINVAR_073,chr11,108261201,C,A,ATM,c.2801C>A,p.Val202Ala,intron_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.01652,0.1,12.3,0.03,-1.02,Likely_benign,1,0/1,94,0.49
+CLINVAR_074,chr2,47442074,G,T,MSH2,c.3174G>T,p.Val375Ala,missense_variant,True,Lynch Syndrome,None,False,0.1463,0.103,2.6,0.02,-1.27,Benign,2,1/1,130,0.97
+CLINVAR_075,chr3,38567910,A,T,SCN5A,c.1510A>T,p.(=),synonymous_variant,False,Brugada / Long QT Syndrome 3,None,False,0.02015,0.102,10.6,0.0,0.06,Likely_benign,2,0/1,191,0.55
+CLINVAR_076,chr3,37008931,G,A,MLH1,c.3531G>A,p.Val32Ala,missense_variant,True,Lynch Syndrome,None,False,0.00937,0.111,10.8,0.04,-1.53,Likely_benign,1,0/1,200,0.52
+CLINVAR_077,chr17,43065041,T,A,BRCA1,c.1141T>A,p.Val42Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.00529,0.129,5.8,0.02,-1.32,Likely_benign,2,0/1,152,0.5
+CLINVAR_078,chr3,37004633,G,C,MLH1,c.2733G>C,p.Val234Ala,intron_variant,True,Lynch Syndrome,None,False,0.3275,0.047,1.7,0.04,-2.64,Benign,2,0/1,177,0.52
+CLINVAR_079,chr5,112744522,G,A,APC,c.2622G>A,p.(=),synonymous_variant,True,Familial Adenomatous Polyposis,None,False,0.1515,0.024,4.4,0.03,-2.15,Benign,3,0/1,205,0.48
+CLINVAR_080,chr19,11105185,T,A,LDLR,c.3285T>A,p.Val86Ala,missense_variant,True,Familial Hypercholesterolemia,None,False,0.01202,0.093,9.4,0.04,-0.42,Likely_benign,2,0/1,168,0.49
+CLINVAR_081,chr17,7671873,A,G,TP53,c.3473A>G,p.(=),synonymous_variant,True,Li-Fraumeni Syndrome,None,False,0.0905,0.108,1.9,0.02,-0.52,Benign,4,0/1,174,0.55
+CLINVAR_082,chr5,112746489,C,G,APC,c.1089C>G,p.Val790Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.02186,0.133,5.2,0.04,-1.26,Likely_benign,2,0/1,206,0.47
+CLINVAR_083,chr2,47410078,G,T,MSH2,c.2678G>T,p.Val779Ala,missense_variant,True,Lynch Syndrome,None,False,0.1859,0.054,2.5,0.0,0.19,Benign,3,1/1,112,0.98
+CLINVAR_084,chr14,23414639,A,G,MYH7,c.3239A>G,p.Val240Ala,missense_variant,False,Hypertrophic Cardiomyopathy,Myosin_Head_Motor_Domain,True,9.8e-05,0.602,19.7,0.2,4.0,Uncertain_significance,0,0/1,185,0.55
+CLINVAR_085,chr17,43062966,C,A,BRCA1,c.2566C>A,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.00456,0.124,3.5,0.02,0.68,Likely_benign,2,0/1,87,0.46
+CLINVAR_086,chr17,43053102,T,G,BRCA1,c.3202T>G,p.Val703Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,0.000316,0.456,15.1,0.17,4.57,Uncertain_significance,1,0/1,143,0.52
+CLINVAR_087,chr17,43048781,T,C,BRCA1,c.2381T>C,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.01757,0.129,2.8,0.0,0.07,Likely_benign,1,0/1,101,0.47
+CLINVAR_088,chr19,11128224,G,C,LDLR,c.1824G>C,p.Val625Ala,missense_variant,True,Familial Hypercholesterolemia,None,False,0.1626,0.066,5.0,0.03,-2.74,Benign,4,0/1,183,0.51
+CLINVAR_089,chr16,23631845,T,A,PALB2,c.3445T>A,p.Val546Ala,intron_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.01444,0.108,5.6,0.02,-1.13,Likely_benign,1,0/1,172,0.55
+CLINVAR_090,chr13,32321952,A,C,BRCA2,c.3052A>C,p.Val253Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.02607,0.117,8.4,0.04,-0.09,Likely_benign,2,0/1,170,0.45
+CLINVAR_091,chr2,47447170,T,TG,MSH2,c.1270T>TG,p.Val71Ala,frameshift_variant,True,Lynch Syndrome,DNA_Mismatch_Binding,True,1.9e-05,0.799,36.6,0.03,8.4,Pathogenic,2,0/1,158,0.47
+CLINVAR_092,chr5,112744761,A,T,APC,c.2861A>T,p.Val862Ala,missense_variant,True,Familial Adenomatous Polyposis,None,False,0.1526,0.03,7.9,0.01,-1.84,Benign,2,1/1,103,0.97
+CLINVAR_093,chr5,112712558,C,T,APC,c.2158C>T,p.(=),synonymous_variant,True,Familial Adenomatous Polyposis,None,False,0.00394,0.084,6.3,0.03,-1.46,Likely_benign,2,0/1,177,0.48
+CLINVAR_094,chr14,23452314,A,C,MYH7,c.2414A>C,p.Val115Ala,missense_variant,False,Hypertrophic Cardiomyopathy,None,False,0.000123,0.524,19.0,0.15,1.67,Uncertain_significance,0,0/1,129,0.49
+CLINVAR_095,chr3,37038297,T,G,MLH1,c.1397T>G,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.00834,0.138,2.6,0.01,1.21,Likely_benign,1,0/1,182,0.47
+CLINVAR_096,chr2,47411430,A,G,MSH2,c.530A>G,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.1022,0.069,2.9,0.02,-0.53,Benign,3,0/1,94,0.49
+CLINVAR_097,chr3,38551334,T,A,SCN5A,c.2434T>A,p.(=),synonymous_variant,False,Brugada / Long QT Syndrome 3,None,False,0.03028,0.089,8.6,0.04,-0.58,Likely_benign,1,0/1,136,0.44
+CLINVAR_098,chr2,47414830,T,G,MSH2,c.430T>G,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.2144,0.022,5.1,0.02,-2.89,Benign,3,0/1,113,0.48
+CLINVAR_099,chr17,7673907,A,T,TP53,c.2007A>T,p.Val508Ala,intron_variant,True,Li-Fraumeni Syndrome,None,False,0.01281,0.135,9.4,0.01,-1.65,Likely_benign,2,0/1,110,0.46
+CLINVAR_100,chr17,7711861,A,C,TP53,c.1461A>C,p.Val662Ala,missense_variant,True,Li-Fraumeni Syndrome,None,False,0.2354,0.093,8.5,0.02,0.5,Benign,4,0/1,164,0.48
+CLINVAR_101,chr19,11110580,C,CG,LDLR,c.1680C>CG,p.Val81Ala,frameshift_variant,True,Familial Hypercholesterolemia,EGF_Precursor_LDLR_ClassB,True,0.0,0.886,34.9,0.02,6.41,Pathogenic,1,0/1,167,0.54
+CLINVAR_102,chr13,32356279,T,C,BRCA2,c.2379T>C,p.Val380Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.03144,0.074,11.3,0.04,-0.91,Likely_benign,2,0/1,149,0.46
+CLINVAR_103,chr17,43074320,A,G,BRCA1,c.3420A>G,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.2392,0.029,3.1,0.02,-1.44,Benign,4,0/1,131,0.48
+CLINVAR_104,chr3,37019239,T,C,MLH1,c.3339T>C,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.3431,0.081,1.2,0.0,-0.49,Benign,3,1/1,194,0.98
+CLINVAR_105,chr14,23423094,G,A,MYH7,c.1194G>A,p.(=),synonymous_variant,False,Hypertrophic Cardiomyopathy,None,False,0.03215,0.057,9.5,0.04,-1.56,Likely_benign,1,0/1,124,0.51
+CLINVAR_106,chr19,11111389,C,T,LDLR,c.2489C>T,p.Val890Ala,missense_variant,True,Familial Hypercholesterolemia,None,False,0.419,0.11,1.5,0.03,-1.17,Benign,2,1/1,108,1.0
+CLINVAR_107,chr2,47435435,C,A,MSH2,c.3535C>A,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.0832,0.103,1.6,0.03,0.14,Benign,4,0/1,89,0.52
+CLINVAR_108,chr14,23421828,T,A,MYH7,c.3428T>A,p.Val229Ala,missense_variant,False,Hypertrophic Cardiomyopathy,None,False,3.7e-05,0.388,21.3,0.31,3.13,Uncertain_significance,1,0/1,114,0.5
+CLINVAR_109,chr3,37024587,C,G,MLH1,c.1687C>G,p.Val388Ala,missense_variant,True,Lynch Syndrome,None,False,0.4143,0.061,3.5,0.02,-1.09,Benign,2,0/1,187,0.51
+CLINVAR_110,chr3,36997269,T,C,MLH1,c.2369T>C,p.(=),synonymous_variant,True,Lynch Syndrome,None,False,0.02513,0.082,3.4,0.01,-1.45,Likely_benign,2,0/1,200,0.5
+CLINVAR_111,chr5,112714008,C,G,APC,c.108C>G,p.(=),synonymous_variant,True,Familial Adenomatous Polyposis,None,False,0.2064,0.054,4.4,0.02,-2.87,Benign,2,1/1,204,0.95
+CLINVAR_112,chr3,38591157,G,A,SCN5A,c.257G>A,p.Val58Ala,inframe_deletion,False,Brugada / Long QT Syndrome 3,None,False,0.0002,0.602,21.7,0.16,3.15,Uncertain_significance,0,0/1,117,0.47
+CLINVAR_113,chr17,7704868,T,A,TP53,c.1468T>A,p.(=),synonymous_variant,True,Li-Fraumeni Syndrome,None,False,0.1649,0.015,4.9,0.03,-1.37,Benign,2,0/1,148,0.51
+CLINVAR_114,chr17,43086210,C,T,BRCA1,c.1310C>T,p.Val511Ala,intron_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.0,0.382,19.8,0.08,3.37,Uncertain_significance,1,0/1,93,0.55
+CLINVAR_115,chr11,47365154,A,G,MYBPC3,c.3254A>G,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.287,0.118,3.2,0.0,-0.05,Benign,3,1/1,169,0.98
+CLINVAR_116,chr14,23435031,C,A,MYH7,c.2631C>A,p.Val832Ala,intron_variant,False,Hypertrophic Cardiomyopathy,None,False,0.02862,0.041,11.0,0.03,0.36,Likely_benign,1,0/1,188,0.46
+CLINVAR_117,chr3,38578556,A,G,SCN5A,c.1656A>G,p.Val57Ala,missense_variant,False,Brugada / Long QT Syndrome 3,Voltage_Sensor_Transmembrane,True,0.00014,0.363,18.1,0.26,2.54,Uncertain_significance,0,0/1,121,0.48
+CLINVAR_118,chr17,43087769,G,C,BRCA1,c.2869G>C,p.Val270Ala,inframe_deletion,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,0.0,0.404,18.5,0.31,1.96,Uncertain_significance,1,0/1,132,0.55
+CLINVAR_119,chr11,47349385,A,T,MYBPC3,c.1485A>T,p.Val386Ala,intron_variant,True,Hypertrophic Cardiomyopathy,None,False,0.0214,0.119,8.3,0.02,-1.73,Likely_benign,2,0/1,124,0.49
+CLINVAR_120,chr3,38576487,C,T,SCN5A,c.3087C>T,p.Val688Ala,intron_variant,False,Brugada / Long QT Syndrome 3,None,False,0.00225,0.124,6.1,0.06,-1.07,Likely_benign,1,0/1,94,0.52
+CLINVAR_121,chr5,112731807,C,A,APC,c.407C>A,p.Val508Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.0,0.251,21.9,0.13,2.15,Uncertain_significance,0,0/1,171,0.49
+CLINVAR_122,chr2,47427947,T,A,MSH2,c.3047T>A,p.Val648Ala,missense_variant,True,Lynch Syndrome,None,False,0.01335,0.058,5.2,0.06,-1.91,Likely_benign,1,0/1,148,0.5
+CLINVAR_123,chr11,47339623,G,C,MYBPC3,c.2223G>C,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.4187,0.041,10.1,0.02,-2.71,Benign,2,0/1,200,0.53
+CLINVAR_124,chr13,32360664,G,T,BRCA2,c.3264G>T,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.01961,0.055,5.4,0.01,0.41,Likely_benign,1,0/1,186,0.48
+CLINVAR_125,chr16,23611613,C,A,PALB2,c.713C>A,p.Val114Ala,intron_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.0,0.475,17.8,0.26,2.87,Uncertain_significance,0,0/1,93,0.48
+CLINVAR_126,chr3,38595673,T,G,SCN5A,c.1273T>G,p.Val74Ala,intron_variant,False,Brugada / Long QT Syndrome 3,None,False,0.02896,0.029,13.2,0.04,-0.47,Likely_benign,2,0/1,101,0.55
+CLINVAR_127,chr11,47373835,C,A,MYBPC3,c.1435C>A,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.02923,0.082,5.5,0.01,1.18,Likely_benign,1,0/1,129,0.55
+CLINVAR_128,chr11,47350521,A,G,MYBPC3,c.2621A>G,p.Val622Ala,inframe_deletion,True,Hypertrophic Cardiomyopathy,None,False,0.0,0.359,19.4,0.17,1.23,Uncertain_significance,0,0/1,106,0.52
+CLINVAR_129,chr3,38588220,G,T,SCN5A,c.820G>T,p.Val721Ala,missense_variant,False,Brugada / Long QT Syndrome 3,Voltage_Sensor_Transmembrane,True,0.0,0.947,27.7,0.14,8.42,Likely_pathogenic,3,0/1,138,0.51
+CLINVAR_130,chr17,43077434,G,T,BRCA1,c.3034G>T,p.Val735Ala,intron_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.1444,0.099,4.8,0.02,-0.45,Benign,2,0/1,146,0.5
+CLINVAR_131,chr2,47443325,C,G,MSH2,c.925C>G,p.Val726Ala,intron_variant,True,Lynch Syndrome,None,False,0.323,0.105,10.7,0.01,-1.72,Benign,4,1/1,115,0.97
+CLINVAR_132,chr3,37023314,C,A,MLH1,c.414C>A,p.Val15Ala,inframe_deletion,True,Lynch Syndrome,None,False,0.000348,0.412,23.8,0.29,4.0,Uncertain_significance,1,0/1,109,0.53
+CLINVAR_133,chr11,108256717,T,C,ATM,c.1817T>C,p.Val218Ala,intron_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.0635,0.114,5.8,0.04,-2.34,Benign,3,0/1,91,0.45
+CLINVAR_134,chr11,108262142,T,C,ATM,c.242T>C,p.(=),synonymous_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.01554,0.126,10.4,0.05,-0.76,Likely_benign,2,0/1,91,0.51
+CLINVAR_135,chr16,23627418,G,A,PALB2,c.2518G>A,p.Val619Ala,intron_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.02694,0.054,13.4,0.04,-1.6,Likely_benign,1,0/1,135,0.48
+CLINVAR_136,chr2,47440125,G,A,MSH2,c.1225G>A,p.Val226Ala,intron_variant,True,Lynch Syndrome,None,False,3.7e-05,0.283,17.4,0.16,2.47,Uncertain_significance,0,0/1,126,0.55
+CLINVAR_137,chr2,47414216,T,G,MSH2,c.3316T>G,p.Val417Ala,intron_variant,True,Lynch Syndrome,None,False,0.2717,0.066,5.9,0.02,-0.95,Benign,3,0/1,132,0.48
+CLINVAR_138,chr13,32343272,G,T,BRCA2,c.3372G>T,p.Val873Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.0647,0.062,10.7,0.03,-0.1,Benign,4,0/1,114,0.53
+CLINVAR_139,chr14,23444726,C,T,MYH7,c.1826C>T,p.Val627Ala,missense_variant,False,Hypertrophic Cardiomyopathy,None,False,0.02729,0.066,11.4,0.01,-0.05,Likely_benign,1,0/1,109,0.44
+CLINVAR_140,chr2,47431012,C,G,MSH2,c.2612C>G,p.Val113Ala,intron_variant,True,Lynch Syndrome,None,False,0.2382,0.077,5.5,0.03,-0.29,Benign,4,1/1,111,0.97
+CLINVAR_141,chr19,11121212,T,C,LDLR,c.1812T>C,p.Val813Ala,intron_variant,True,Familial Hypercholesterolemia,None,False,0.3879,0.048,4.2,0.03,-0.32,Benign,4,0/1,118,0.51
+CLINVAR_142,chr16,23619815,G,T,PALB2,c.1915G>T,p.Val216Ala,inframe_deletion,True,Hereditary Breast & Pancreatic Cancer,None,False,0.000288,0.538,19.0,0.16,2.91,Uncertain_significance,1,0/1,121,0.45
+CLINVAR_143,chr19,11125460,T,C,LDLR,c.2560T>C,p.(=),synonymous_variant,True,Familial Hypercholesterolemia,None,False,0.161,0.042,8.0,0.01,-1.43,Benign,3,0/1,112,0.46
+CLINVAR_144,chr11,47349674,G,A,MYBPC3,c.1774G>A,p.Val675Ala,missense_variant,True,Hypertrophic Cardiomyopathy,None,False,0.0,0.528,19.4,0.21,0.73,Uncertain_significance,1,0/1,97,0.52
+CLINVAR_145,chr17,7669241,C,G,TP53,c.841C>G,p.Val342Ala,intron_variant,True,Li-Fraumeni Syndrome,None,False,0.01713,0.044,13.1,0.02,0.2,Likely_benign,1,0/1,168,0.51
+CLINVAR_146,chr11,47379296,A,C,MYBPC3,c.3396A>C,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.03274,0.024,11.6,0.05,-1.37,Likely_benign,2,0/1,197,0.44
+CLINVAR_147,chr3,37031071,A,G,MLH1,c.1171A>G,p.Val572Ala,intron_variant,True,Lynch Syndrome,None,False,7.1e-05,0.452,16.8,0.26,1.92,Uncertain_significance,1,0/1,176,0.46
+CLINVAR_148,chr3,38570654,G,T,SCN5A,c.754G>T,p.(=),synonymous_variant,False,Brugada / Long QT Syndrome 3,None,False,0.1191,0.104,9.9,0.03,-1.14,Benign,2,0/1,136,0.52
+CLINVAR_149,chr17,7678117,T,C,TP53,c.2717T>C,p.(=),synonymous_variant,True,Li-Fraumeni Syndrome,None,False,0.1502,0.036,8.4,0.04,-1.99,Benign,4,0/1,118,0.52
+CLINVAR_150,chr3,38564048,A,T,SCN5A,c.1148A>T,p.Val849Ala,inframe_deletion,False,Brugada / Long QT Syndrome 3,None,False,0.0,0.536,23.4,0.29,3.81,Uncertain_significance,1,0/1,132,0.51
+CLINVAR_151,chr16,23612413,T,A,PALB2,c.1513T>A,p.Val14Ala,missense_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.01358,0.104,12.5,0.05,0.73,Likely_benign,1,0/1,182,0.47
+CLINVAR_152,chr14,23418605,T,G,MYH7,c.205T>G,p.(=),synonymous_variant,False,Hypertrophic Cardiomyopathy,None,False,0.3898,0.022,9.2,0.04,-2.39,Benign,4,1/1,126,0.99
+CLINVAR_153,chr11,108230601,C,T,ATM,c.201C>T,p.(=),synonymous_variant,True,Ataxia-Telangiectasia / HBOC,None,False,0.03154,0.073,2.6,0.01,-0.59,Likely_benign,1,0/1,156,0.5
+CLINVAR_154,chr3,37041250,A,G,MLH1,c.850A>G,p.Val851Ala,missense_variant,True,Lynch Syndrome,None,False,0.00024,0.241,17.5,0.04,4.77,Uncertain_significance,0,0/1,204,0.5
+CLINVAR_155,chr3,37020645,C,A,MLH1,c.1245C>A,p.Val46Ala,missense_variant,True,Lynch Syndrome,None,False,0.2907,0.056,10.9,0.02,0.28,Benign,3,1/1,172,1.0
+CLINVAR_156,chr11,47340621,G,A,MYBPC3,c.3221G>A,p.Val622Ala,intron_variant,True,Hypertrophic Cardiomyopathy,None,False,0.000297,0.322,14.0,0.03,1.78,Uncertain_significance,1,0/1,153,0.49
+CLINVAR_157,chr16,23619880,T,C,PALB2,c.1980T>C,p.Val281Ala,missense_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.000296,0.272,22.3,0.15,3.79,Uncertain_significance,0,0/1,115,0.46
+CLINVAR_158,chr13,32354898,A,G,BRCA2,c.998A>G,p.Val799Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.03063,0.049,2.5,0.03,-0.16,Likely_benign,1,0/1,102,0.5
+CLINVAR_159,chr3,37009196,G,T,MLH1,c.296G>T,p.Val297Ala,missense_variant,True,Lynch Syndrome,None,False,0.02879,0.048,12.1,0.06,-0.23,Likely_benign,2,0/1,123,0.47
+CLINVAR_160,chr11,47370681,C,T,MYBPC3,c.1781C>T,p.Val82Ala,missense_variant,True,Hypertrophic Cardiomyopathy,None,False,0.2359,0.117,10.4,0.03,-0.06,Benign,3,0/1,137,0.46
+CLINVAR_161,chr5,112720048,T,A,APC,c.2648T>A,p.Val449Ala,intron_variant,True,Familial Adenomatous Polyposis,None,False,0.368,0.026,5.4,0.0,-1.55,Benign,3,0/1,102,0.49
+CLINVAR_162,chr3,37007175,G,GA,MLH1,c.1775G>GA,p.Val76Ala,frameshift_variant,True,Lynch Syndrome,ATPase_Mismatch_Repair,True,0.0,0.876,40.1,0.02,8.4,Pathogenic,1,0/1,177,0.52
+CLINVAR_163,chr16,23635077,C,G,PALB2,c.3177C>G,p.Val178Ala,missense_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.0,0.307,21.6,0.24,3.74,Uncertain_significance,0,0/1,135,0.55
+CLINVAR_164,chr11,47352983,G,C,MYBPC3,c.1583G>C,p.Val384Ala,missense_variant,True,Hypertrophic Cardiomyopathy,None,False,0.01309,0.051,7.9,0.03,-1.66,Likely_benign,2,0/1,182,0.54
+CLINVAR_165,chr16,23627954,G,C,PALB2,c.3054G>C,p.Val255Ala,missense_variant,True,Hereditary Breast & Pancreatic Cancer,WD40_Repeat_Domain,True,0.0,0.926,27.1,0.09,6.02,Likely_pathogenic,3,0/1,114,0.49
+CLINVAR_166,chr16,23636382,G,C,PALB2,c.982G>C,p.Val583Ala,intron_variant,True,Hereditary Breast & Pancreatic Cancer,None,False,0.4078,0.081,5.7,0.01,-0.02,Benign,2,1/1,154,0.97
+CLINVAR_167,chr11,47373967,A,T,MYBPC3,c.1567A>T,p.Val668Ala,missense_variant,True,Hypertrophic Cardiomyopathy,Myosin_Binding_C0_C10,True,0.0,0.961,32.7,0.12,7.85,Likely_pathogenic,3,0/1,93,0.52
+CLINVAR_168,chr17,43059129,T,C,BRCA1,c.2229T>C,p.Val430Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,BRCT_RING_Domain,True,0.0,0.959,34.8,0.1,7.52,Likely_pathogenic,2,0/1,86,0.44
+CLINVAR_169,chr3,38566567,G,A,SCN5A,c.167G>A,p.Val668Ala,missense_variant,False,Brugada / Long QT Syndrome 3,None,False,0.02385,0.117,12.5,0.01,-1.67,Likely_benign,1,0/1,115,0.46
+CLINVAR_170,chr11,47348448,G,C,MYBPC3,c.548G>C,p.(=),synonymous_variant,True,Hypertrophic Cardiomyopathy,None,False,0.1912,0.055,6.4,0.04,-2.3,Benign,4,0/1,95,0.52
+CLINVAR_171,chr19,11091938,A,G,LDLR,c.538A>G,p.Val339Ala,missense_variant,True,Familial Hypercholesterolemia,None,False,0.01708,0.096,10.1,0.0,0.87,Likely_benign,2,0/1,157,0.56
+CLINVAR_172,chr13,32350587,A,C,BRCA2,c.187A>C,p.Val88Ala,intron_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.0,0.645,21.0,0.1,2.84,Uncertain_significance,0,0/1,203,0.54
+CLINVAR_173,chr17,43058371,C,T,BRCA1,c.1471C>T,p.(=),synonymous_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.1642,0.072,6.5,0.03,-0.49,Benign,4,1/1,181,0.98
+CLINVAR_174,chr3,38596020,A,T,SCN5A,c.1620A>T,p.Val421Ala,intron_variant,False,Brugada / Long QT Syndrome 3,None,False,0.0746,0.058,9.3,0.01,-0.12,Benign,4,0/1,135,0.56
+CLINVAR_175,chr2,47405508,G,C,MSH2,c.1608G>C,p.Val709Ala,intron_variant,True,Lynch Syndrome,None,False,0.01971,0.065,4.1,0.04,-0.71,Likely_benign,2,0/1,187,0.47
+CLINVAR_176,chr13,32321350,G,A,BRCA2,c.2450G>A,p.Val551Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.00608,0.067,6.1,0.01,1.21,Likely_benign,2,0/1,131,0.53
+CLINVAR_177,chr13,32324657,A,C,BRCA2,c.2257A>C,p.Val258Ala,missense_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.01977,0.069,2.3,0.02,-1.68,Likely_benign,2,0/1,195,0.49
+CLINVAR_178,chr3,37020969,T,A,MLH1,c.1569T>A,p.Val370Ala,missense_variant,True,Lynch Syndrome,None,False,0.3854,0.118,6.5,0.01,-1.68,Benign,2,1/1,119,0.97
+CLINVAR_179,chr13,32326932,T,C,BRCA2,c.1032T>C,p.Val733Ala,intron_variant,True,Hereditary Breast & Ovarian Cancer,None,False,0.02757,0.063,12.9,0.04,-0.31,Likely_benign,1,0/1,143,0.45
+CLINVAR_180,chr3,36994293,T,C,MLH1,c.2893T>C,p.Val694Ala,intron_variant,True,Lynch Syndrome,None,False,0.3485,0.046,4.0,0.03,0.24,Benign,4,1/1,126,0.98

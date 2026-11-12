@@ -1,0 +1,26 @@
+{
+  "total_variants": 180,
+  "actionable_variants": 19,
+  "tier_counts": {
+    "Benign": 91,
+    "VUS": 48,
+    "Likely_Benign": 22,
+    "Pathogenic": 11,
+    "Likely_Pathogenic": 8
+  },
+  "rule_trigger_counts": {
+    "PVS1": 10,
+    "PS1": 7,
+    "PM1": 27,
+    "PM2": 43,
+    "PP3_Mod": 19,
+    "PP3": 1,
+    "PP5": 12,
+    "BA1": 54,
+    "BS1": 58,
+    "BP4": 112,
+    "BP7": 79
+  },
+  "mean_cadd_pathogenic": 36.82,
+  "mean_revel_pathogenic": 0.909
+}
